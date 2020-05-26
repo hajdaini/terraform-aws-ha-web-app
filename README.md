@@ -4,7 +4,7 @@
 
 Builds a highly available AWS infrastructure from Terraform for a php web application communicating with a database.
 
-![infrastructure schema](.imgs/infrastructure-schema.jpg)
+![infrastructure schema](./imgs/infrastructure-schema.jpg)
 
 More informations [here](https://devopssec.fr/article/construire-infrastructure-aws-hautement-disponible-terraform)
 
@@ -69,4 +69,4 @@ alb_dns_name = [DNS OF YOUR ELB]
 
 Finally open your browser and test your application from the dns name of your ELB :
 
-![result](.imgs/result.jpg)
+![result](./imgs/result.jpg)
